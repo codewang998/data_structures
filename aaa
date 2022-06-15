@@ -1,0 +1,11 @@
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2004.1.0.0037.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2005.1.0.0038.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2005.2.0.0039.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2009.3.0.0045.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2010.2.0.0046.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2011.6.0.0049.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2012.5.0.0054.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2101.1.0.0055.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2102.2.0.0057.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2103.3.0.0061.oe1.x86_64.rpm
+wget https://repo.openeuler.org/openEuler-20.03-LTS/update/x86_64/Packages/kernel-4.19.90-2110.8.0.0119.oe1.x86_64.rpm
